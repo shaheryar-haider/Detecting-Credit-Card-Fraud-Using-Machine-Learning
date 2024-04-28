@@ -2,6 +2,8 @@
 
 # Overview
 This project aims to detect fraudulent and non fraudulent transactions in credit card data using machine learning algorithms. The model's performance is evaluated using precision, recall, and F1-score metrics to assess its effectiveness in identifying fraudulent activities.
+# DataSet
+/ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud / 
 
 #Classification Metrics
 The classification metrics for the model are as follows:
