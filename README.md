@@ -31,11 +31,11 @@ The shallow neural network architecture comprises a few layers, with ReLU activa
 # Dependencies
 Ensure you have the following dependencies installed to run the model:
 
-Python 3.x
-TensorFlow
-NumPy
-Pandas
-Scikit-learn
+- Python 3.x
+- TensorFlow
+- NumPy
+- Pandas
+- Scikit-learn
 
 
 
